@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=jajal
+Description=display penguin gemoy
+Comment=created By Sofian Nasution
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/linus/
+ScriptFile=/usr/share/plymouth/themes/linux/linux.script
