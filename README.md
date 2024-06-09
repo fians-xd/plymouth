@@ -43,4 +43,9 @@ sudo reboot
 ```
 
 ## Note:
-#### Silahkan bertanya jika ada kendala 👉 t.me/yansxdi
+#### Silahkan bertanya jika ada kendala👇
+<p align="center">
+  <a href="https://t.me/yansxdi">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
+  </a>
+</p>
