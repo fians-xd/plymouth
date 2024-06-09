@@ -1,6 +1,6 @@
-# Mengubah Tema Plymouth
+# Mengubah Tema Boot Linux
 
-Panduan ini akan memandu Anda melalui langkah-langkah untuk mengubah tema Plymouth di sistem Ubuntu Anda. Plymouth adalah aplikasi yang menampilkan splash screen grafis saat booting dan mematikan sistem.
+Silahkan dicoba Bambang caranya dibawah 😉👇
 
 <p align="center">
   <img src="preview/preview.gif" alt="Tema Plymouth Preview" width="180" height="200">
@@ -22,6 +22,7 @@ Panduan ini akan memandu Anda melalui langkah-langkah untuk mengubah tema Plymou
 
 ### Langkah 1: Pindahkan Tema ke Direktori Plymouth
 
-Pindahkan tema Plymouth yang telah Anda siapkan ke direktori tema Plymouth:
+Pindahkan tema Plymouth yang sudah di siapkan ke direktori tema Plymouth:
 ```bash
 sudo cp -r /path/to/your/theme /usr/share/plymouth/themes/temamu
+```
