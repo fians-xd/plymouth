@@ -3,7 +3,7 @@
 Panduan ini akan memandu Anda melalui langkah-langkah untuk mengubah tema Plymouth di sistem Ubuntu Anda. Plymouth adalah aplikasi yang menampilkan splash screen grafis saat booting dan mematikan sistem.
 
 <p align="center">
-  <img src="preview/preview.gif" alt="Tema Plymouth Preview" width="50" height="50">
+  <img src="preview/preview.gif" alt="Tema Plymouth Preview" width="100" height="100">
 </p>
 
 ## Persiapan
