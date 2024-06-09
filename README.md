@@ -43,4 +43,4 @@ sudo reboot
 ```
 
 ## Note:
-# Silahkan bertanya jika ada kendala 👉 t.me/yansxdi
+#### Silahkan bertanya jika ada kendala 👉 t.me/yansxdi
